@@ -21,4 +21,4 @@ A Windows desktop application by **LOOP Structural Automation** for converting D
 🌐 https://www.loopstructuralautomation.com/
 ## Application Preview
 
-![LOOP DXF → STAAD.Pro Application Preview](preview.png)
+![LOOP DXF → STAAD.Pro Application Preview](Preview.png)
